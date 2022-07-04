@@ -2,7 +2,7 @@
 
 
 
-Unsupervised blind image quality assessment based on joint structure and natural scene statistics features. [paper](https://www.sciencedirect.com/science/article/pii/S1047320322001092) [code]()
+Unsupervised blind image quality assessment based on joint structure and natural scene statistics features. [paper](https://www.sciencedirect.com/science/article/pii/S1047320322001092) [code](https://github.com/HelloQinglin/JSN-NIQE)
 
 
 
